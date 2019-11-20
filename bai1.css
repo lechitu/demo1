@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+.container {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.headertop {
+    background-color: #1e1f19;
+    float: left;
+    width: 100%;
+}
+.logobig {
+    float: left;
+}
+.logobig img {
+    height: 150px;
+}
+.title {
+    float: left;
+    border-left: 1px solid #fff;
+    color: darkturquoise;
+    padding-left: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.imgrss {
+    float: right;
+    margin-top: 50px;
+}
+.imgrss img {
+    height: 70px;
+}
+.menu{
+    width: 100%;
+    float: left;
+    background-color: #363732;
+}
+.ul1 {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+.ul1 li{
+    list-style-type: none;
+    float: left;
+}
+.ul1 li a{
+    text-decoration: none;
+    color: cyan;
+}
+.ul1 li a img{
+    width: 283px;
+}
+.picture img {
+    width: 100%;
+}
+
+.content{
+    background-color: antiquewhite;
+}
+.content_ion{
+    display: flex;
+    height: 360px;
+    margin-top: 30px;
+}
+.logo1 {
+    background-image: url(images/block1.jpg);
+    height: 300px;
+    width: 570px;
+    background-size: cover;
+}
+.logo1 p {
+    color: green;
+}
+.logo2 {
+    background-image: url(images/block2.jpg);
+    height: 300px;
+    width: 570px;
+    background-size: cover;
+}
+.logo2 p {
+    color: green;
+}
+.logo3 {
+    background-image: url(images/block3.jpg);
+    height: 300px;
+    width: 570px;
+    background-size: cover;
+}
+.logo3 p {
+    color: green;
+}
+.content_txt {
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.text1 {
+    height: 500px;
+    background-color: #fff;
+}
+.text {
+    float: left;
+    width: 795px;
+    margin-right: 50px;
+}
+.text h3 {
+    color: green;
+}
+.day {
+    float: left;
+    font-weight: bold;
+    text-decoration: underline;
+    color: green;
+}
+.txt p {
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.btnrm {
+    float: right;
+}
+.arrow {
+    float: left;
+    margin-top: 20px;
+}
+.img_text {
+    background-size: cover;
+}
+.img_text img {
+    width: 100%;
+}
+.footer {
+    text-align: right;
+    height: 80px;
+    padding-top: 40px;
+}
