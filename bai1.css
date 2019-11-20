@@ -42,17 +42,19 @@ body{
     margin: 0;
     padding: 0;
     background-size: cover;
+    width: 100%;
 }
 .ul1 li{
     list-style-type: none;
     float: left;
+    width: 16%;
 }
 .ul1 li a{
     text-decoration: none;
     color: cyan;
 }
 .ul1 li a img{
-    width: 283px;
+    width: 100%;
 }
 .picture img {
     width: 100%;
@@ -103,8 +105,9 @@ body{
 }
 .text {
     float: left;
-    width: 795px;
+    width: 45%;
     margin-right: 50px;
+    height: 400px;
 }
 .text h3 {
     color: green;
